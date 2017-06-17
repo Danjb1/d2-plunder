@@ -8,7 +8,7 @@ A mod for Diablo II: Lord of Destruction focused on improving the game's loot.
  - Baal now drops a nice endgame reward on Hell
  - Chances of finding high runes drastically increased
  - Set, unique and rare items are now ~4 times more likely
- - Magic items are now one third more likely
+ - Magic items are now ~one third more likely
  - Unique jewellery drops are now significantly less skewed towards certain items
  - Countess, Summonmer and Nihlathak now always drop Pandemonium Keys
  - Countess is now capable of dropping higher runes (up to Zod in Hell)

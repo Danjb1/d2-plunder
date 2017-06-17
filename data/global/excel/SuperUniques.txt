@@ -5,7 +5,7 @@ Coldcrow	Coldcrow	cr_archer1	2		18	0	0	4	4	0	1	0		18	18	18	Act 1 Super A	Act 1 (
 Rakanishu	Rakanishu	fallen2	3		17	6	0	8	8	0	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	0	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Griswold	Griswold	griswold	5		7	0	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
-The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	0	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
+The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	0	1	0		16	16	16	Countess	Countess (N)	Countess (H) Custom	0
 Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	0	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Flamespike the Crawler	Flamespike the Crawler	quillrat4	8		9	7	0	6	6	0	1	0		16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
 Boneash	Boneash	skmage_pois3	9		8	5	18	0	0	0	1	0		15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
@@ -60,7 +60,7 @@ Sharp Tooth Sayer	Sharp Tooth Sayer	overseer3	56		6	0	0	3	3	1	0	0	1	24	24	24	Act
 Magma Torquer	Magma Torquer	imp5	57		5	7	0	5	5	1	0	0		9	9	9	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	0	4	4	1	0	0		10	10	10	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Frozenstein	Frozenstein	snowyeti4	59		18	25	0	5	6	1	0	0		19	19	19	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
-Nihlathak Boss	Nihlathak	nihlathakboss	60		0	0	0	0	0	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	Nihlathak (H)	0
+Nihlathak Boss	Nihlathak	nihlathakboss	60		0	0	0	0	0	1	0	1		28	28	28	Nihlathak	Nihlathak (N)	Nihlathak (H) Custom	0
 Baal Subject 1	Baal Subject 1	fallenshaman5	61		9	0	0	5	5	0	0	1		29	29	29	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 2	Baal Subject 2	unraveler5	62		23	0	0	3	3	0	0	1		21	21	21	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	0	0	5	5	1	0	1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0

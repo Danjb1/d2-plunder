@@ -125,3 +125,7 @@ Blade Talons	btl
 Scissors Katar	skr
 Circlet	ci0
 Coronet	ci1
+Charm Small	cm1
+Charm Medium	cm2
+Charm Large	cm3
+Jewel	jew
