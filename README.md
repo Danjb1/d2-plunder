@@ -28,4 +28,4 @@ Plunder is compatible with all versions of the game from v1.10 upwards, but requ
 
 ## Installation
 
-See [this guide](https://github.com/Danjb1/d2-base-mod#how-do-i-create-a-mod-from-these-files).
+See [this guide](https://github.com/Danjb1/d2-base-mod/blob/master/docs/FAQ.md#how-do-i-create-a-mod-from-these-files).
