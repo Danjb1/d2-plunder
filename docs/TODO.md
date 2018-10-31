@@ -4,6 +4,10 @@
 
  - Add more misc items to vendors
 
+ - Increase chance of socketed items
+
+ - Lower gambling costs
+
 # Wishlist
 
  - Drop endgame charms based on the number of players (requires code editing; [possible workaround](https://d2mods.info/forum/viewtopic.php?t=56836))

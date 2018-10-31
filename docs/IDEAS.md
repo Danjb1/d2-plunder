@@ -8,6 +8,7 @@
  - Item you can't actually equip, purely for Iron Golem (lots of chance to cast)
  - Baal's Tooth
  - Spellbook - shield that does nothing except give you a skill?
+ - Jewel that adds sockets to an item - Socketed (3) - is it possible??
 
 ## Features
 
